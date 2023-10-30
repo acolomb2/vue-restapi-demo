@@ -22,7 +22,7 @@ onUnmounted(() => {
     class="min-h-screen bg-gradient-to-b from-white to-gray-500 from-green-900 to-blue-700 py-8 text-white"
   >
  
- <button class="text-white cursor-pointer bg-black text-white ml-5 rounded-md hover:bg-gray-300 hover:text-black transition-all active:text-yellow-500" onclick="history.back()">‎ &lt; Go Back ‎ </button>
+ <button class="text-white cursor-pointer bg-black text-white ml-5 rounded-md hover:bg-gray-300 hover:text-black transition-all active:text-yellow-500 w-20" onclick="history.back()">&lt; Go Back</button>
 
   
     <div
